@@ -1,0 +1,14 @@
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\ageMonths\obj\Debug\net8.0\ageMonths.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\ageMonths\obj\Debug\net8.0\ageMonths.AssemblyInfoInputs.cache
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\ageMonths\obj\Debug\net8.0\ageMonths.AssemblyInfo.cs
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\ageMonths\obj\Debug\net8.0\ageMonths.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\ageMonths\bin\Debug\net8.0\ageMonths.exe
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\ageMonths\bin\Debug\net8.0\ageMonths.deps.json
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\ageMonths\bin\Debug\net8.0\ageMonths.runtimeconfig.json
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\ageMonths\bin\Debug\net8.0\ageMonths.dll
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\ageMonths\bin\Debug\net8.0\ageMonths.pdb
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\ageMonths\obj\Debug\net8.0\ageMonths.dll
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\ageMonths\obj\Debug\net8.0\refint\ageMonths.dll
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\ageMonths\obj\Debug\net8.0\ageMonths.pdb
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\ageMonths\obj\Debug\net8.0\ageMonths.genruntimeconfig.cache
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\ageMonths\obj\Debug\net8.0\ref\ageMonths.dll
